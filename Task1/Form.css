@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    text-align: center;
+    vertical-align: middle;
+}
+input{
+    width: 400px;
+    height: 35px;
+}
+h1{
+    font-style: oblique;
+    margin-right: 300px;
+}
